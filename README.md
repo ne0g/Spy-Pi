@@ -1,4 +1,5 @@
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/751d1a00-c3ee-49ec-8009-7b5ba000f934" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f1a246c5-abf5-49c0-87a2-dfce51c53381" />
+
 
 
 # Spy-Pi: HOW TO
@@ -158,6 +159,6 @@ To communicate with AWS, you need to make sure you've configured AWS CLI with yo
 
 ## Enjoy your local, secure, lightweight audio device with AWS connectivity.
 
-<img width="1116" height="851" alt="image" src="https://github.com/user-attachments/assets/9ec7bfe9-2b8e-46e8-8853-ecbe82fdc599" />
+<img width="671" height="510" alt="image" src="https://github.com/user-attachments/assets/01480bea-85cd-4c6a-8395-e96c79885a56" />
 
-<img width="671" height="510" alt="image" src="https://github.com/user-attachments/assets/a7bfbf3b-c3ec-4cf6-b9ac-3ad02b6c57fc" />
+<img width="1021" height="1004" alt="image" src="https://github.com/user-attachments/assets/5a0f8197-600d-40b3-85b4-8b8a7131b684" />
