@@ -146,7 +146,7 @@ aws s3 ls
 aws s3 ls s3://{name of your bucket}
 ```
 
-For Elastic Beanstalk, you will then need to go back to console, and create an environment, name it what you want, but it needs to be running a PHP environment. Take all the PHP files and zip them into a single file, ensure they are underneath the root of the zip file, so no folder above them. If they exist in a folder within the zip, it wont work, EB will complain or not compile properly.
+For Elastic Beanstalk, you will then need to go back to console, and create an environment, name it what you want, but it needs to be running a PHP environment. Take all the PHP files and zip them into a single file, ensure they are underneath the root of the zip file, so no folder above them. If they exist in a folder within the zip, it wont work, EB will complain or not compile properly. This has been included in the PHP folder as a zip.
 
 - Within your EB environment, make sure you choose the optional logging area, and set some environment variables, they are named in the PHP config.php file what they should be named, give them any value you want as long as they have the variable names in the config.php file. From there, once EB is deployed, you should be good to authenticate!
 
